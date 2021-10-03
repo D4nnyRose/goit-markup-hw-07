@@ -1,0 +1,3 @@
+.banner__text {
+  @include banner-text(44px, 900, 1.36, center, uppercase);
+}
